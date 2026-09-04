@@ -15,7 +15,7 @@ A lightweight, standards-compliant Python library for converting between the Eth
 Clone the repository and install in editable mode:
 
 ```bash
-git clone [https://github.com/YOUR_USERNAME/ethiopian-calendar.git](https://github.com/YOUR_USERNAME/ethiopian-calendar.git)
+git clone [https://github.com/shehisomolalign/ethiopian-calendar.git](https://github.com/YOUR_USERNAME/ethiopian-calendar.git)
 cd ethiopian-calendar
 pip install -e .
 
